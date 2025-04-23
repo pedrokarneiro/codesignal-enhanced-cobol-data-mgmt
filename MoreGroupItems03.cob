@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. MoreGroupItems.
+       PROGRAM-ID. MoreGroupItems03.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
        01 Account.

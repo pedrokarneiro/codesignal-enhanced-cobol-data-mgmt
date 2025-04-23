@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. GroupItemDemo.
+       PROGRAM-ID. GroupItemDemoPhone.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
 

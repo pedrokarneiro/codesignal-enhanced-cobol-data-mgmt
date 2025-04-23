@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. GroupItemDemo.
+       PROGRAM-ID. GroupItemDemo01.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
 
